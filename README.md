@@ -1,4 +1,8 @@
 # Super-Smash
 
-Super Smash Mario game developed with Pygame. Includes a single-player platform mission as well as a multiplayer game-mode.
+Super Smash Mario game developed with Pygame. Includes:
+
+* Single-player platform mission 
+* Multiplayer fight-based game mode.
+
 Second big prject carried out in Python.
